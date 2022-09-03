@@ -11,9 +11,9 @@ handle the further Vaccine Procedure
 
 # Modules of the Project:- 
 All data saved on the cloud. 
-Manage States
-Manage Health Offices
-Manage Vaccines
+It manage States,
+Manage Health Offices,
+Manage Vaccines.
 Health offices will manage the vaccine procedure. 
 After vaccination a Email will be sent to the patient
-Download Vaccine
+Then download Vaccine certificate.
