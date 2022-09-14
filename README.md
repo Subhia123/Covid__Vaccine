@@ -17,3 +17,5 @@ Manage Vaccines.
 Health offices will manage the vaccine procedure. 
 After vaccination a Email will be sent to the patient
 Then download Vaccine certificate.
+
+![Capture1](https://user-images.githubusercontent.com/72314868/190205259-f3b05024-a29c-457f-8ce2-bff8be874aba.PNG)
