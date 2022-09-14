@@ -19,6 +19,7 @@ After vaccination a Email will be sent to the patient
 Then download Vaccine certificate.
 
 #images of the project :-
+
 ![Capture1](https://user-images.githubusercontent.com/72314868/190208033-8550cef7-af2a-440d-98aa-799b1dd6594b.PNG)
 
 ![Capture2](https://user-images.githubusercontent.com/72314868/190208268-fe67b3a6-3580-4618-b003-903865ca40ef.PNG)
